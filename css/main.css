@@ -1,0 +1,25 @@
+body{
+  line-height: 1.2;
+  background:black;
+  color:white;
+  padding-left:10px;
+  font-size: 15px;
+}
+
+.csharp-code{
+  font-size:12pt;
+  font-weight:bold;
+}
+
+pre {
+  margin: 0px;
+  padding: 0px;
+}
+
+.string a{ color:#A4C260 }
+
+.comment  { color:#BC9358; font-style: italic; }
+.method { color:#FFC56D }
+.keyword  { color:#CB7832 }
+.string  { color:#A4C260 }
+.symbol { color:#6C9CBD }
